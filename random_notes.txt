@@ -1,0 +1,70 @@
+Listening 
+
+-----------------
+Content, planning, approval then do 
+
+
+Navigation (home, information, matrimony, mandal level, consultancy )
+	Pages 
+
+and slide bar 
+
+country-> state-> district --> mandal (40)
+
+secrety, president ..
+
+
+
+
+HOme
+	about
+	service
+	recent events
+	upcoming events
+	categories (satrams, goshala, ...., )
+	team members and founders 
+	categories (satrams, goshala, ...., ) event
+	business duplicate (real estate, ca auditing, , it 				company )
+	org logos (srollable, clickable )
+
+contact 
+	
+	
+
+
+-------------------
+Technical 
+
+
+
+
+
+
+-------------------
+
+
+Github --> share the link
+
+
+take copy
+
+Siva 
+	nav + slider 
+
+Siyona 
+	All categories 
+
+Dileep 
+	Contact
+members info
+contact form 
+
+
+
+Sainath 
+	
+
+
+
+
+
