@@ -1,0 +1,239 @@
+Revised Curriculum sheet Day Wise for .Net
+
+
+Day 1 (8 hours)  
+- Introduction to .NET & Building a RESTful API with ASP.NET Core (2.5 hours)  
+- Building a RESTful API with ASP.NET Core (cont.) & Entity Framework Core (3 hours)  
+- Entity Framework Core (cont.) & Implementing RESTful Services (2.5 hours)  
+
+
+
+Day 2 (8 hours)  
+- Implementing RESTful Services & Exception Handling (2.5 hours)  
+- Introduction to Docker (1 hour)  
+- Building Docker Images (2 hours)  
+- Managing Docker Containers (2 hours)  
+
+
+
+Day 3 (8 hours)  
+- Docker Best Practices (1 hour)  
+- Introduction to CI/CD (1 hour)  
+- Setting Up CI/CD with Jenkins (2 hours)  
+- Cloud Basics (1 hour)  
+- Cloud Deployment and Monitoring (2 hours)  
+- Introduction to Kubernetes (1 hour)  
+
+
+
+Day 4 (8 hours)  
+- Kubernetes Core Concepts (2 hours)  
+- Kubernetes Core Concepts (cont.) (1 hour)  
+- Kubernetes Operations (2 hours)  
+- Introduction to React (1 hour)  
+- Building React Components (1 hour)  
+- Building React Components (cont.) (1 hour)  
+
+
+
+Day 5 (8 hours)  
+- State Management with Hooks (1.5 hours)  
+- React Routing (1 hour)  
+- Introduction to Redux (1 hour)  
+- Implementing Redux in React (2 hours)  
+- Advanced Redux Concepts (1 hour)  
+- React and Redux Integration (1.5 hours)  
+
+
+
+Day 6 (8 hours)  
+- Introduction to TDD (1 hour)  
+- Introduction to BDD (1 hour)  
+- Advanced Cloud Services (2 hours)  
+- Cloud Security and Compliance (2 hours)  
+- Cloud Cost Management (1 hour)  
+- Disaster Recovery and Backup (1 hour)  
+
+
+
+Day 7 (3 hours)  
+- Cybersecurity Overview (3 hours)  
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Revised Curriculum sheet Day Wise for JAVA
+
+
+Day 1 (8 hours)  
+- Introduction to Spring Boot (2.5 hours)  
+- Building RESTful APIs with Spring Boot (3 hours)  
+- Spring Data JPA (2.5 hours)  
+
+
+
+Day 2 (8 hours)  
+- Exception Handling & Spring Security (2.5 hours)  
+- Introduction to Docker (1 hour)  
+- Building Docker Images (2 hours)  
+- Managing Docker Containers (2 hours)  
+
+
+
+Day 3 (8 hours)  
+- Docker Best Practices (1 hour)  
+- Introduction to CI/CD (1 hour)  
+- Setting Up CI/CD with Jenkins (2 hours)  
+- Cloud Basics (1 hour)  
+- Cloud Deployment and Monitoring (2 hours)  
+- Introduction to Kubernetes (1 hour)  
+
+
+
+Day 4 (8 hours)  
+- Kubernetes Core Concepts (2 hours)  
+- Kubernetes Core Concepts (cont.) (1 hour)  
+- Kubernetes Operations (2 hours)  
+- Introduction to React (1 hour)  
+- Building React Components (1 hour)  
+- Building React Components (cont.) (1 hour)  
+
+
+
+Day 5 (8 hours)  
+- State Management with Hooks (1.5 hours)  
+- React Routing (1 hour)  
+- Introduction to Redux (1 hour)  
+- Implementing Redux in React (2 hours)  
+- Advanced Redux Concepts (1 hour)  
+- React and Redux Integration (1.5 hours)  
+
+
+
+Day 6 (8 hours)  
+- Introduction to TDD (1 hour)  
+- Introduction to BDD (1 hour)  
+- Advanced Cloud Services (2 hours)  
+- Cloud Security and Compliance (2 hours)  
+- Cloud Cost Management (1 hour)  
+- Disaster Recovery and Backup (1 hour)  
+
+
+
+Day 7 (3 hours)  
+- Cybersecurity Overview (3 hours)  
+
+
+
+----------------------------------------------------------------------------------------------------------
+Capsule Project sheet Day Wise. 
+
+
+Day 1: Introduction and Database Basics  
+Objective: Understand the foundation of the Fleet Management System and SQL schema.  
+
+1. Introduction to the Fleet Management System (1 hour)  
+   - Overview of the system.  
+   - Key entities: Truck, Driver, Maintenance, and Route.  
+
+2. SQL Basics and Table Schemas (3 hours)  
+   - Introduction to SQL concepts.  
+   - Explanation of the SQL schemas for Truck, Driver, Maintenance, and Route.  
+   - Hands-on practice: Create tables and insert sample data.  
+
+3. Basic Queries in SQL (2 hours)  
+   - Writing SELECT, INSERT, UPDATE, and DELETE queries.  
+   - Hands-on exercises for retrieving and modifying data.  
+
+4. Foreign Keys and Joins (2 hours)  
+   - Understanding relationships between tables (e.g., Truck and Maintenance).  
+   - Writing JOIN queries to retrieve related data.  
+
+
+
+Day 2: Backend Development with Spring Boot  
+Objective: Build the backend for the Fleet Management System using Java Spring Boot.  
+
+1. Introduction to Spring Boot (1 hour)  
+   - Overview of Spring Boot framework.  
+   - Project structure and dependencies.  
+
+2. Creating Entities and Repositories (3 hours)  
+   - Implementing entities: Truck, Driver, Maintenance, and Route.  
+   - Setting up repositories for database interactions.  
+
+3. RESTful APIs Development (3 hours)  
+   - Implementing CRUD operations for each entity.  
+   - Writing endpoints for `/trucks`, `/drivers`, `/maintenance`, and `/routes`.  
+   - Hands-on: Testing APIs using tools like Postman.  
+
+4. Data Validation and Error Handling (1 hour)  
+   - Adding validation for request payloads.  
+   - Implementing exception handling for APIs.  
+
+
+
+Day 3: Frontend Development with Angular  
+Objective: Develop the frontend interface to interact with the Fleet Management System.  
+
+1. Introduction to Angular (1 hour)  
+   - Overview of Angular framework.  
+   - Setting up an Angular project.  
+
+2. Building Components (3 hours)  
+   - Creating components: TruckList, TruckDetail, DriverList, DriverDetail, etc.  
+   - Displaying data using Angular templates.  
+
+3. Integrating Backend APIs (2 hours)  
+   - Using Angular Services to call Spring Boot APIs.  
+   - Fetching and displaying data in components.  
+
+4. Routing in Angular (2 hours)  
+   - Configuring routes for navigation between components.  
+   - Implementing navigation for trucks, drivers, maintenance, and routes.  
+
+
+
+Day 4: Advanced Features and Deployment  
+Objective: Add advanced features and deploy the application.  
+
+1. Advanced Features in Backend (2 hours)  
+   - Pagination and sorting for REST APIs.  
+   - Adding search functionality in endpoints.  
+
+2. Enhancing the Frontend (2 hours)  
+   - Implementing pagination, sorting, and search in Angular components.  
+   - Improving UI/UX with Angular Material or Bootstrap.  
+
+3. Containerization with Docker (2 hours)  
+   - Introduction to Docker.  
+   - Creating Dockerfiles for Spring Boot and Angular.  
+   - Building and running Docker containers.  
+
+4. Deployment Overview (2 hours)  
+   - Understanding deployment environments (staging, production).  
+   - Introduction to cloud platforms (AWS, Azure, etc.).  
+
+
+
+Day 5: DevOps Practices and Project Wrap-Up  
+Objective: Learn DevOps practices and review the complete project.  
+
+1. Continuous Integration/Continuous Deployment (CI/CD) (2 hours)  
+   - Setting up CI/CD pipelines with tools like Jenkins or GitHub Actions.  
+   - Automating builds, tests, and deployments.  
+
+2. Monitoring and Logging (1 hour)  
+   - Introduction to tools like Prometheus and Grafana.  
+   - Logging with tools like ELK stack.  
+
+3. Kubernetes for Orchestration (2 hours)  
+   - Basics of Kubernetes.  
+   - Deploying the application on Kubernetes.  
+
+4. Project Review and Q&A (3 hours)  
+   - Reviewing key learnings from the week.  
+   - Resolving doubts and discussing real-world applications of the system.  
+
+

@@ -1,0 +1,144 @@
+Table of Contents (ToC) for a comprehensive Generative AI program lasting 4 to 6 months. The curriculum is structured to provide a solid foundation, progressing into advanced topics with hands-on experience. This content balances theory, practical projects, and career-oriented development.
+
+
+Generative AI Program ToC
+
+Module 1: Foundations of Generative AI
+1. Introduction to Generative AI
+   - Overview of Generative AI
+   - Real-World Applications (Art, Text, Audio, Video, Code Generation)
+   - Ethical Considerations in Generative AI (Bias, Deepfakes, Intellectual Property)
+
+2. Mathematical and Statistical Foundations
+   - Linear Algebra (Matrix Multiplications, Singular Value Decomposition)
+   - Probability and Information Theory (KL Divergence, Entropy)
+   - Optimization Techniques (Gradient Descent, L-BFGS)
+
+3. Programming and Tools for Generative AI
+   - Python Basics for Generative AI
+   - Libraries: TensorFlow, PyTorch, Hugging Face Transformers
+
+4. Hands-on Exercise 1
+   - Implement a simple random noise generator using NumPy.
+
+
+Module 2: Fundamentals of Deep Generative Models
+5. Autoencoders (AE)
+   - Introduction to Encoder-Decoder Architecture
+   - Variational Autoencoders (VAEs)
+   - Applications: Image Reconstruction, Anomaly Detection
+
+6. Generative Adversarial Networks (GANs)
+   - GAN Architecture (Generator, Discriminator)
+   - Loss Functions in GANs (Minimax, Wasserstein Loss)
+   - Challenges in Training GANs (Mode Collapse, Vanishing Gradients)
+
+7. Hands-on Project 1
+   - Build a simple GAN to generate handwritten digits (MNIST Dataset).
+
+
+
+Module 3: Advanced Generative Models
+8. Transformers and Attention Mechanisms
+   - Attention is All You Need: Transformer Basics
+   - Pretrained Models (BERT, GPT, T5)
+   - Fine-tuning Generative Transformers for Tasks (e.g., Text Completion, Summarization)
+
+9. Diffusion Models
+   - Denoising Diffusion Probabilistic Models (DDPMs)
+   - Applications in Image Generation
+
+10. Flow-Based Models
+    - Normalizing Flows (RealNVP, Glow)
+    - Density Estimation and Sampling
+
+11. Hands-on Project 2
+    - Implement a text generation model using GPT or similar transformer architecture.
+
+
+
+Module 4: Multimodal Generative AI
+12. Vision-Language Models
+    - CLIP: Connecting Text and Images
+    - DALL·E and Stable Diffusion
+
+13. Audio and Speech Generation
+    - Text-to-Speech (TTS) Models (Tacotron, WaveNet)
+    - Music Generation with RNNs or Transformers
+
+14. Video and Animation
+    - Video Synthesis Techniques
+    - Applications in Game Development and Media
+
+15. Hands-on Project 3
+    - Create a multimodal model to generate images based on text prompts (e.g., leveraging Stable Diffusion).
+
+
+15. Prompt Engineering for Generative Models
+   - Fundamentals of Prompt Design
+   - Crafting Effective Prompts for AI Models
+   - Advanced Prompting Techniques (Zero-Shot, Few-Shot, Chain-of-Thought)
+   - Practical Use Cases (Chatbots, Summarization, Knowledge Extraction)
+   - Understanding How Generative Models Interpret Prompts
+   - Techniques for Text-to-Image Prompts (e.g., DALL·E, Stable Diffusion)
+   - Experimenting with Text-to-Text Prompts (e.g., GPT Models)
+   - Crafting Prompts for Multimodal AI (e.g., CLIP, Audio Generation)
+
+
+19. Hands-on Activity
+   - Experiment with prompts in GPT-based models to perform specific tasks (e.g., creative writing, data extraction).
+
+16. Hands-on Activity
+   - Create and refine prompts to generate high-quality outputs for text, image, and multimodal systems.
+
+
+Module 5: Optimization and Deployment
+16. Optimization Techniques
+    - Fine-Tuning and Transfer Learning for Generative AI Models
+    - Model Compression for Deployment (Pruning, Quantization)
+
+17. AI Deployment for Generative Models
+    - Deploying Models via APIs (FastAPI, Flask)
+    - Scaling with Cloud Platforms (AWS, Azure, GCP)
+
+18. Hands-on Project 4
+    - Deploy a generative model as a web application with a user-friendly interface.
+
+
+
+Module 6: Ethics and Regulation in Generative AI
+19. Ethics in Generative AI
+    - Risks of Generative Models (Deepfakes, Misuse of Content)
+    - Responsible Use and Fairness in AI
+
+20. Regulation and Policies
+    - Current Regulations Around Generative AI
+    - Understanding Copyright and Data Privacy Implications
+
+21. Hands-on Discussion
+    - Group debate or case study analysis on the ethical challenges of generative AI.
+
+
+Module 7: Capstone and Career Development
+22. Capstone Project
+    - Design, build, and deploy a comprehensive generative AI system (e.g., content generator, creative AI tool).
+
+23. Portfolio and Resume Development
+    - Showcasing Projects and Contributions
+    - Publishing Work (GitHub, Kaggle, Personal Website)
+
+24. Mock Interviews and Career Guidance
+    - Technical and Behavioral Interview Preparation
+    - Networking Strategies and Career Paths in Generative AI
+
+
+
+
+
+
+Program Outcomes
+- Mastery of generative AI techniques including GANs, transformers, and diffusion models.
+- Hands-on experience building and deploying cutting-edge generative systems.
+- Ethical and practical understanding of generative AI’s impact and applications.
+- Readiness to pursue roles as a Generative AI Engineer, Research Scientist, or AI Specialist.
+

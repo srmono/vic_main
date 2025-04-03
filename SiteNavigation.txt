@@ -1,0 +1,93 @@
+Main Navigation Menu
+
+1. Home  
+   - Overview of the Trust  
+   - Highlights of Key Activities  
+   - Quick Links to Key Sections  
+
+2. About Us  
+   - History of Vasavi Arya Vysya Organization  
+   - Mission & Vision  
+   - Leadership Team  
+   - Trust Activities  
+
+3. Information Hub   1250+
+   - India Level Overview  
+     - States → Districts → Mandals → Cities/Villages  
+   - Categories (60+ categories like):  
+     - Goshala Information  
+     - Annadaana Sathrams  
+     - Schools  
+     - Orphanages  
+     - Social Services  
+     - Others  
+
+4. Events  
+   - Upcoming Events  
+   - Past Events  
+   - Announcements  
+   - Event Calendar  
+
+5. Consultancy Services  
+   - Career Guidance  
+   - Legal Advice  
+   - Business Consultancy  
+   - etc
+
+6. Donations  
+   - Make a Donation  
+   - How Your Contributions Help  
+   - Sponsorship Opportunities  
+
+7. Photo & Video Gallery  
+   - Event Highlights  
+   - Trust Activities  
+   - Cultural Programs  ....
+
+8. Gothras & Traditions  
+   - Gothra List  
+   - Importance of Gothras  
+   - Traditional Practices  
+
+9. Annadaana Satrams  
+   - List of Sathrams  
+   - Services Offered  
+   - Locations  
+
+10. Other Services  
+    - Community Welfare Programs  
+    - Matrimonial Assistance  
+    - Health Camps  
+
+11. Contact Us  
+    - Office Locations  
+    - Contact Details  
+    - Feedback & Support  
+
+
+Additional Features
+
+#Sub-Navigation for "India Level Overview"
+- State-wise Navigation:  
+  - State → District → Mandal → City/Village  
+  - Information Categories for Each Level  
+
+#Footer Links  
+1. Terms & Conditions  
+2. Privacy Policy  
+3. FAQ  
+4. Site Map  
+
+
+Suggestions for Enhancements
+1. Search Bar: A powerful search feature to find information quickly.  
+2. User Dashboard (Optional): 
+Allow users to log in and save/bookmark sections.  
+3. Interactive Maps: State/District-level maps for better visualization of locations and services.  
+4. Testimonials: Showcase feedback from beneficiaries of your trust.  
+5. Newsletter: For sharing updates, upcoming events, and other information.  
+
+
+mobile friendly 
+
+
